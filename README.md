@@ -1,4 +1,4 @@
-# automate-the-boring-stuff-with-python
-Automate the boring stuff with python project
+# Notes on "Automate the Boring Stuff with Python"
 
-Notes on the Automate the boring stuff with python book
+Personal notes while working through "Automate the Boring Stuff with Python, 2nd Edition" book.
+
